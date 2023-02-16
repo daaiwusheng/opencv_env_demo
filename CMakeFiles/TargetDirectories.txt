@@ -1,0 +1,3 @@
+/home/wangyu/code/opencvcpp_demo/CMakeFiles/demo.dir
+/home/wangyu/code/opencvcpp_demo/CMakeFiles/edit_cache.dir
+/home/wangyu/code/opencvcpp_demo/CMakeFiles/rebuild_cache.dir
